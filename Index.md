@@ -32,11 +32,16 @@
  </SECTION>
  
  <SECTION ID="Section_4">
+	<H3>Week 4 Hardware </H3>
+	<p>
+		https://github.com/neotech101/Voice-Recog/blob/master/Bankaccount.xlsx
+	</p>
  
  </SECTION>
 	
  <SECTION ID="Section_5">
   <H3>Week 5 Hardware (A - Monday Oct. 16, B - Friday Oct. 13)</H3>
+	
   
  </SECTION>
  
