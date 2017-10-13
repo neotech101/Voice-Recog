@@ -32,7 +32,7 @@
  </SECTION>
  
  <SECTION ID="Section_4">
-	<H3>Week 4 Hardware </H3>
+	<H3>Week 4 Hardware (A - Monday Oct. 2, B - Friday Sept. 29) </H3>
 	<p>
 		https://github.com/neotech101/Voice-Recog/blob/master/Bankaccount.xlsx
 	</p>
