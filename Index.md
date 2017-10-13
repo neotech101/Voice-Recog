@@ -9,6 +9,9 @@
  
  <SECTION ID="Section_1">
   <H3>Week 1 Hardware (A - Monday Sept. 11, B - Friday Sept. 8)</H3>
+	<p>
+		https://github.com/neotech101/Voice-Recog
+	</p>
   
  </SECTION>
 
