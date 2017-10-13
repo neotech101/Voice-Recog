@@ -17,6 +17,9 @@
 
  <SECTION ID="Section_2">
   <H3>Week 2 Hardware  (A - Monday Sept. 18, B - Friday Sept. 15)</H3>
+	<p>
+		https://github.com/neotech101/Voice-Recog/blob/master/Submission%20Date.docx
+	</p>
  
  </SECTION>
  
