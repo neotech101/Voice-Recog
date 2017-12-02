@@ -9,7 +9,7 @@
   
  <SECTION ID="Section_7">
   <H3>Week 7 Hardware (A - Monday Dec. 4, B - Friday Dec. 1)</H3>
-  
+  <img src="20171201_152609.jpg" alt="PCB">
  </SECTION>
   <SECTION ID="Section_6">
   <H3>Week 6 Hardware (A - Monday Oct. 23, B - Friday Oct. 20)</H3>
