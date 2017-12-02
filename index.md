@@ -1,3 +1,4 @@
+<body background="Background.jpg">
 <ARTICLE ID="Article_1">
  <HEADER ID="Header_Article_1">
   <H2>Building IoT Projects</H2>
