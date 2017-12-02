@@ -1,5 +1,6 @@
-<body background="Background.jpg">
 <ARTICLE ID="Article_1">
+	<body background="Background.jpg">
+
  <HEADER ID="Header_Article_1">
   <H2>Building IoT Projects</H2>
  </HEADER>
