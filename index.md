@@ -12,11 +12,11 @@
   <img src="20171201_152609.jpg" alt="PCB">
  </SECTION>
   <SECTION ID="Section_6">
-  <H3>Week 6 Hardware (A - Monday Oct. 23, B - Friday Oct. 20)</H3>
+  <H3>Week 6 Hardware (A - Monday Nov. 27, B - Friday Nov. 24)</H3>
   
  </SECTION>
   <SECTION ID="Section_5">
-  <H3>Week 5 Hardware (A - Monday Oct. 16, B - Friday Oct. 13)</H3>
+  <H3>Week 5 Hardware (A - Monday Nov. 27, B - Friday Oct. 13)</H3>
 	
   
  </SECTION>
