@@ -11,6 +11,8 @@
  
   <SECTION ID="Section_8">
 	<H3>Week 8 Hardware (A - Monday Dec. 11, B - Friday Dec. 8)</H3>
+	<p>https://github.com/neotech101/Voice-Recog/blob/master/Scripts.docx</p>
+	<p>https://github.com/neotech101/Voice-Recog/blob/master/HardwarePlacard.pub</p>
   </SECTION>
   
  <SECTION ID="Section_7">
