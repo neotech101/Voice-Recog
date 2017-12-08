@@ -8,10 +8,10 @@
  <SECTION ID="Section_0">
   <H3>Week 0 2017-2018 Capstone Project Overview</H3>
  </SECTION>
+ 
   <SECTION ID="Section_8">
 	<H3>Week 8 Hardware (A - Monday Dec. 11, B - Friday Dec. 8)</H3>
-	
-	</SECTION>
+  </SECTION>
   
  <SECTION ID="Section_7">
   <H3>Week 7 Hardware (A - Monday Dec. 4, B - Friday Dec. 1)</H3>
