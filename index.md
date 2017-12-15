@@ -10,6 +10,7 @@
  </SECTION>
  <SECTION ID="Section_9">
 	<H3>Week Week 9 Hardware (A - Monday Dec. 18, B - Friday Dec. 15)</H3>
+	<p> https://quik.gopro.com/v/JzNmj8MT7N/ </p>
 </SECTION>
   <SECTION ID="Section_8">
 	<H3>Week 8 Hardware (A - Monday Dec. 11, B - Friday Dec. 8)</H3>
