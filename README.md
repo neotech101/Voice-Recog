@@ -3,7 +3,7 @@
 Table of contents
 =================
   * [Table of contents](#table-of-contents)
-  * [Installation](#Introduction:)
+  * [Installation](#Introduction)
   * [Usage](#usage)
     * [STDIN](#stdin)
     * [Local files](#local-files)
