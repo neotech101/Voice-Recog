@@ -19,13 +19,13 @@ Essentially to sum these steps up in as minimal as possible
 -You will then need two terminals 1 to connect to the server 2nd to start the application.
 If users follow the steps from the provided link the app should work perfectly.
 
-Unit Testing 
+Unit Testing:
 Testing the application is simple
 First click on the Listen button 
 Second speak into the microphone by asking Alexa a question.
 Third wait for Alexa to respond through the speaker 
  
-Production Testing
+Production Testing:
 If any production testing can really be done it will be through setting your microphone and speaker to work properly with your raspberry pi. Click on the Audio icon on the top left of your raspberry pi desktop, set up your microphone so it is on, next set up your speaker so it is a PCB.
 Is the project reproducible by following your instructions?
 -If users follow the steps from the provided link the app should work perfectly.
