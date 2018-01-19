@@ -1,4 +1,17 @@
 # Voice-Recog
+
+Table of contents
+=================
+  * [Table of contents](#table-of-contents)
+  * [Installation](#Introduction:)
+  * [Usage](#usage)
+    * [STDIN](#stdin)
+    * [Local files](#local-files)
+    * [Remote files](#remote-files)
+    * [Multiple files](#multiple-files)
+    * [Combo](#combo)
+  * [Tests](#tests)
+  * [Dependency](#dependency)
 # Introduction: 
 My project is a voice recognition used through Alexa/Amazon echo. Amazon Echo is a brand of smart speakers developed by Amazon.com. The devices connect to the voice-controlled intelligent personal assistant service Alexa, which responds to the name "Alexa". To avoid any law suits, when making this version on the raspberry pi you are not allowed to use the wake word “Alexa” to begin the app. You can only use a button or a click button through a GUI.
 
