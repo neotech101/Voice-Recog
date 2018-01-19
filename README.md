@@ -1,10 +1,15 @@
 # Voice-Recog
 Build Instructions
 Introduction: My project is a voice recognition used through Alexa/Amazon echo. Amazon Echo is a brand of smart speakers developed by Amazon.com. The devices connect to the voice-controlled intelligent personal assistant service Alexa, which responds to the name "Alexa". To avoid any law suits, when making this version on the raspberry pi you are not allowed to use the wake word “Alexa” to begin the app. You can only use a button or a click button through a GUI.
+
 Bill/Budget: Essentially for this project Users will need a Speaker, Microphone, Mouse, and Keyboard.
+
 Time Commitment: Once all the parts have been assembled this project can be built in about an hour as long as the instructions are properly followed and all the required parts assembled.
+
 Mechanical Assembly: Connect the USB keyboard to the raspberry pi, Connect the USB mouse to the raspberry pi, Connect the 3.5mm audio jack speaker to the raspberry pi, Connect the USB microphone to the raspberry pi.
+
 PCB/Soldering: Project does not require any Soldering.
+
 Power Up: For the process in powering up this the device I followed the following steps through this link.
 https://github.com/alexa/alexa-avs-sample-app/wiki/Raspberry-Pi
 Essentially to sum these steps up in as minimal as possible
@@ -13,6 +18,7 @@ Essentially to sum these steps up in as minimal as possible
 -After they run the command to install the application onto their raspberry pi
 -You will then need two terminals 1 to connect to the server 2nd to start the application.
 If users follow the steps from the provided link the app should work perfectly.
+
 Unit Testing 
 Testing the application is simple
 First click on the Listen button 
