@@ -1,18 +1,6 @@
 # Voice-Recog
 
-Table of contents
-=================
-  * [Table of contents](#table-of-contents)
-  * [Introduction](Introduction)
-  * [Usage](#usage)
-    * [STDIN](#stdin)
-    * [Local files](#local-files)
-    * [Remote files](#remote-files)
-    * [Multiple files](#multiple-files)
-    * [Combo](#combo)
-  * [Tests](#tests)
-  * [Dependency](#dependency)
-Introduction
+# Introduction
 My project is a voice recognition used through Alexa/Amazon echo. Amazon Echo is a brand of smart speakers developed by Amazon.com. The devices connect to the voice-controlled intelligent personal assistant service Alexa, which responds to the name "Alexa". To avoid any law suits, when making this version on the raspberry pi you are not allowed to use the wake word “Alexa” to begin the app. You can only use a button or a click button through a GUI.
 
 # Bill/Budget 
@@ -44,6 +32,11 @@ Second speak into the microphone by asking Alexa a question.
 Third wait for Alexa to respond through the speaker 
  
 # Production Testing
+If any production testing can really be done it will be through setting your microphone and speaker to work properly with your raspberry pi. Click on the Audio icon on the top left of your raspberry pi desktop, set up your microphone so it is on, next set up your speaker so it is a PCB.
+Is the project reproducible by following your instructions?
+-If users follow the steps from the provided link the app should work perfectly.
+ 
+Production Testing
 If any production testing can really be done it will be through setting your microphone and speaker to work properly with your raspberry pi. Click on the Audio icon on the top left of your raspberry pi desktop, set up your microphone so it is on, next set up your speaker so it is a PCB.
 Is the project reproducible by following your instructions?
 -If users follow the steps from the provided link the app should work perfectly.
