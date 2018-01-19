@@ -35,8 +35,4 @@ Third wait for Alexa to respond through the speaker
 If any production testing can really be done it will be through setting your microphone and speaker to work properly with your raspberry pi. Click on the Audio icon on the top left of your raspberry pi desktop, set up your microphone so it is on, next set up your speaker so it is a PCB.
 Is the project reproducible by following your instructions?
 -If users follow the steps from the provided link the app should work perfectly.
- 
-Production Testing
-If any production testing can really be done it will be through setting your microphone and speaker to work properly with your raspberry pi. Click on the Audio icon on the top left of your raspberry pi desktop, set up your microphone so it is on, next set up your speaker so it is a PCB.
-Is the project reproducible by following your instructions?
--If users follow the steps from the provided link the app should work perfectly.
+
